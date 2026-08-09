@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.xlsx
+*.csv
+!data/sample_attendance_data.csv
+.DS_Store
